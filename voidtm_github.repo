@@ -28,5 +28,15 @@
     "version":"1",
     "location":"https://voidtm.tk/nebps/nel/files",
     "dependancies":[],
+  },
+  {
+    "name":"motd",
+    "pprint":"MOTD",
+    "rusts":"no",
+    "rustc":"no",
+    "pythons":"yes",
+    "version":"1",
+    "location":"https://github.com/void-tmos/motd/raw/master/versions/",
+    "dependancies":[],
   }
 ]
