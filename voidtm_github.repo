@@ -98,5 +98,15 @@
     "version":"1",
     "location":"https://github.com/void-tmos/rat/raw/master/versions/",
     "dependancies":[],
+  },
+  {
+    "name":"ratsay",
+    "pprint":"Ratsay",
+    "rusts":"no",
+    "rustc":"no",
+    "pythons":"yes",
+    "version":"1",
+    "location":"https://github.com/void-tmos/ratsay/raw/master/versions/",
+    "dependancies":["rat"],
   }
 ]
