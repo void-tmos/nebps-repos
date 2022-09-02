@@ -5,8 +5,8 @@
     "rusts":"no",
     "rustc":"no",
     "pythons":"yes",
-    "version":"0.1",
-    "location":"https://voidtm.tk/nebps/bananaman/files",
+    "version":"1",
+    "location":"https://github.com/void-tmos/bananaman/raw/master/versions/",
     "dependancies":[],
   },
   {
