@@ -78,5 +78,15 @@
     "version":"0.1.1",
     "location":"https://github.com/void-tmos/nebps/raw/master/versions/",
     "dependancies":[],
+  },
+  {
+    "name":"crabsay",
+    "pprint":"Crab Say",
+    "rusts":"no",
+    "rustc":"no",
+    "pythons":"yes",
+    "version":"0.1.1",
+    "location":"https://github.com/void-tmos/crabsay/raw/master/versions/",
+    "dependancies":["crab"],
   }
 ]
