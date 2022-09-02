@@ -58,5 +58,15 @@
     "version":"1",
     "location":"https://github.com/void-tmos/1984/raw/master/versions/",
     "dependancies":[],
+  },
+  {
+    "name":"crab",
+    "pprint":"Crab",
+    "rusts":"no",
+    "rustc":"no",
+    "pythons":"yes",
+    "version":"1",
+    "location":"https://github.com/void-tmos/crab/raw/master/versions/",
+    "dependancies":[],
   }
 ]
