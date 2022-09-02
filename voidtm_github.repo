@@ -68,5 +68,15 @@
     "version":"1",
     "location":"https://github.com/void-tmos/crab/raw/master/versions/",
     "dependancies":[],
+  },
+  {
+    "name":"nebps",
+    "pprint":"NEBPS",
+    "rusts":"no",
+    "rustc":"no",
+    "pythons":"yes",
+    "version":"0.1",
+    "location":"https://github.com/void-tmos/nebps/raw/master/versions/",
+    "dependancies":[],
   }
 ]
