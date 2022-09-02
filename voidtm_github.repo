@@ -75,7 +75,7 @@
     "rusts":"no",
     "rustc":"no",
     "pythons":"yes",
-    "version":"0.1.1",
+    "version":"0.2",
     "location":"https://github.com/void-tmos/nebps/raw/master/versions/",
     "dependancies":[],
   },
