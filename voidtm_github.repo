@@ -88,5 +88,15 @@
     "version":"1",
     "location":"https://github.com/void-tmos/crabsay/raw/master/versions/",
     "dependancies":["crab"],
+  },
+  {
+    "name":"rat",
+    "pprint":"Rat",
+    "rusts":"no",
+    "rustc":"no",
+    "pythons":"yes",
+    "version":"1",
+    "location":"https://github.com/void-tmos/rat/raw/master/versions/",
+    "dependancies":[],
   }
 ]
