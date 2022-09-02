@@ -48,5 +48,15 @@
     "version":"1.1",
     "location":"https://github.com/void-tmos/coreutils/raw/master/versions/",
     "dependancies":[],
+  },
+  {
+    "name":"1984",
+    "pprint":"1984",
+    "rusts":"no",
+    "rustc":"no",
+    "pythons":"yes",
+    "version":"1",
+    "location":"https://github.com/void-tmos/1984/raw/master/versions/",
+    "dependancies":[],
   }
 ]
