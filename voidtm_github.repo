@@ -108,5 +108,25 @@
     "version":"1",
     "location":"https://github.com/void-tmos/ratsay/raw/master/versions/",
     "dependancies":["rat"],
+  },
+  {
+    "name":"tmsh",
+    "pprint":"TMSH",
+    "rusts":"no",
+    "rustc":"no",
+    "pythons":"yes",
+    "version":"0.1",
+    "location":"https://github.com/void-tmos/tmsh/raw/master/versions/",
+    "dependancies":[],
+  },
+  {
+    "name":"vet",
+    "pprint":"VET",
+    "rusts":"no",
+    "rustc":"no",
+    "pythons":"yes",
+    "version":"0.1",
+    "location":"https://github.com/void-tmos/vet/raw/master/versions/",
+    "dependancies":[],
   }
 ]
